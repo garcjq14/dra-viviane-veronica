@@ -1,6 +1,6 @@
 # Screenshots - Dra. Viviane Verônica
 
-Gerado em: 17/09/2026, 08:19:21
+Gerado em: 17/09/2026, 09:50:25
 URL: http://127.0.0.1:8765/?v=shots
 
 Captura força o carregamento de imagens (`loading=lazy`) e mantém o visual real do site.
