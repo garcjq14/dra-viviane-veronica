@@ -1,0 +1,8 @@
+# PLACEHOLDER_SITE_URL: troque o domínio quando estiver pronto
+User-agent: *
+Allow: /
+
+Disallow: /_archive/
+Disallow: /scripts/
+
+Sitemap: https://www.dravivianeveronica.com.br/sitemap.xml

@@ -1,0 +1,32 @@
+# Dependências
+node_modules/
+
+# Ambiente / secrets
+.env
+.env.*
+!.env.example
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.cursor/
+*.log
+
+# Arquivos de trabalho (não publicar)
+_archive/
+_shots/
+_v1_backup/
+dra-bianca/
+
+# Screenshots gerados (pesados)
+screenshots/*.png
+
+# Cache / temporários
+.cache/
+tmp/
+*.tmp
+
+scripts/fetch*.py
+scripts/merge_reviews.py
+scripts/parse_maps_dump.py
+

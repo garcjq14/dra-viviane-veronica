@@ -1,0 +1,15 @@
+{
+  "name": "dra-viviane-veronica",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Landing page Dra. Viviane Verônica | Angiologia e Cirurgia Vascular em Uberlândia",
+  "scripts": {
+    "start": "python -m http.server 8765",
+    "assets": "python scripts/prepare-assets.py",
+    "shots": "node scripts/capture-screenshots.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^25.11.0"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-09-17T11:19:21.343Z",
+  "url": "http://127.0.0.1:8765/?v=shots",
+  "items": [
+    {
+      "type": "full",
+      "viewport": "desktop-1440",
+      "file": "full-desktop-1440.png"
+    },
+    {
+      "type": "viewport",
+      "viewport": "desktop-1440",
+      "file": "viewport-hero-desktop-1440.png"
+    },
+    {
+      "type": "combo",
+      "combo": "hero-hang-ticker",
+      "viewport": "desktop-1440",
+      "file": "combo-hero-hang-ticker-desktop-1440.png"
+    },
+    {
+      "type": "combo",
+      "combo": "sobre-medos",
+      "viewport": "desktop-1440",
+      "file": "combo-sobre-medos-desktop-1440.png"
+    },
+    {
+      "type": "combo",
+      "combo": "metodo",
+      "viewport": "desktop-1440",
+      "file": "combo-metodo-desktop-1440.png"
+    },
+    {
+      "type": "combo",
+      "combo": "atendimentos",
+      "viewport": "desktop-1440",
+      "file": "combo-atendimentos-desktop-1440.png"
+    },
+    {
+      "type": "combo",
+      "combo": "diferenciais-depoimentos",
+      "viewport": "desktop-1440",
+      "file": "combo-diferenciais-depoimentos-desktop-1440.png"
+    },
+    {
+      "type": "combo",
+      "combo": "faq-contato-cta",
+      "viewport": "desktop-1440",
+      "file": "combo-faq-contato-cta-desktop-1440.png"
+    },
+    {
+      "type": "full",
+      "viewport": "laptop-1280",
+      "file": "full-laptop-1280.png"
+    },
+    {
+      "type": "viewport",
+      "viewport": "laptop-1280",
+      "file": "viewport-hero-laptop-1280.png"
+    },
+    {
+      "type": "combo",
+      "combo": "hero-hang-ticker",
+      "viewport": "laptop-1280",
+      "file": "combo-hero-hang-ticker-laptop-1280.png"
+    },
+    {
+      "type": "combo",
+      "combo": "sobre-medos",
+      "viewport": "laptop-1280",
+      "file": "combo-sobre-medos-laptop-1280.png"
+    },
+    {
+      "type": "combo",
+      "combo": "metodo",
+      "viewport": "laptop-1280",
+      "file": "combo-metodo-laptop-1280.png"
+    },
+    {
+      "type": "combo",
+      "combo": "atendimentos",
+      "viewport": "laptop-1280",
+      "file": "combo-atendimentos-laptop-1280.png"
+    },
+    {
+      "type": "combo",
+      "combo": "diferenciais-depoimentos",
+      "viewport": "laptop-1280",
+      "file": "combo-diferenciais-depoimentos-laptop-1280.png"
+    },
+    {
+      "type": "combo",
+      "combo": "faq-contato-cta",
+      "viewport": "laptop-1280",
+      "file": "combo-faq-contato-cta-laptop-1280.png"
+    },
+    {
+      "type": "full",
+      "viewport": "tablet-1024",
+      "file": "full-tablet-1024.png"
+    },
+    {
+      "type": "viewport",
+      "viewport": "tablet-1024",
+      "file": "viewport-hero-tablet-1024.png"
+    },
+    {
+      "type": "combo",
+      "combo": "hero-hang-ticker",
+      "viewport": "tablet-1024",
+      "file": "combo-hero-hang-ticker-tablet-1024.png"
+    },
+    {
+      "type": "combo",
+      "combo": "sobre-medos",
+      "viewport": "tablet-1024",
+      "file": "combo-sobre-medos-tablet-1024.png"
+    },
+    {
+      "type": "combo",
+      "combo": "metodo",
+      "viewport": "tablet-1024",
+      "file": "combo-metodo-tablet-1024.png"
+    },
+    {
+      "type": "combo",
+      "combo": "atendimentos",
+      "viewport": "tablet-1024",
+      "file": "combo-atendimentos-tablet-1024.png"
+    },
+    {
+      "type": "combo",
+      "combo": "diferenciais-depoimentos",
+      "viewport": "tablet-1024",
+      "file": "combo-diferenciais-depoimentos-tablet-1024.png"
+    },
+    {
+      "type": "combo",
+      "combo": "faq-contato-cta",
+      "viewport": "tablet-1024",
+      "file": "combo-faq-contato-cta-tablet-1024.png"
+    },
+    {
+      "type": "full",
+      "viewport": "tablet-768",
+      "file": "full-tablet-768.png"
+    },
+    {
+      "type": "viewport",
+      "viewport": "tablet-768",
+      "file": "viewport-hero-tablet-768.png"
+    },
+    {
+      "type": "combo",
+      "combo": "hero-hang-ticker",
+      "viewport": "tablet-768",
+      "file": "combo-hero-hang-ticker-tablet-768.png"
+    },
+    {
+      "type": "combo",
+      "combo": "sobre-medos",
+      "viewport": "tablet-768",
+      "file": "combo-sobre-medos-tablet-768.png"
+    },
+    {
+      "type": "combo",
+      "combo": "metodo",
+      "viewport": "tablet-768",
+      "file": "combo-metodo-tablet-768.png"
+    },
+    {
+      "type": "combo",
+      "combo": "atendimentos",
+      "viewport": "tablet-768",
+      "file": "combo-atendimentos-tablet-768.png"
+    },
+    {
+      "type": "combo",
+      "combo": "diferenciais-depoimentos",
+      "viewport": "tablet-768",
+      "file": "combo-diferenciais-depoimentos-tablet-768.png"
+    },
+    {
+      "type": "combo",
+      "combo": "faq-contato-cta",
+      "viewport": "tablet-768",
+      "file": "combo-faq-contato-cta-tablet-768.png"
+    },
+    {
+      "type": "full",
+      "viewport": "mobile-390",
+      "file": "full-mobile-390.png"
+    },
+    {
+      "type": "viewport",
+      "viewport": "mobile-390",
+      "file": "viewport-hero-mobile-390.png"
+    },
+    {
+      "type": "combo",
+      "combo": "hero-hang-ticker",
+      "viewport": "mobile-390",
+      "file": "combo-hero-hang-ticker-mobile-390.png"
+    },
+    {
+      "type": "combo",
+      "combo": "sobre-medos",
+      "viewport": "mobile-390",
+      "file": "combo-sobre-medos-mobile-390.png"
+    },
+    {
+      "type": "combo",
+      "combo": "metodo",
+      "viewport": "mobile-390",
+      "file": "combo-metodo-mobile-390.png"
+    },
+    {
+      "type": "combo",
+      "combo": "atendimentos",
+      "viewport": "mobile-390",
+      "file": "combo-atendimentos-mobile-390.png"
+    },
+    {
+      "type": "combo",
+      "combo": "diferenciais-depoimentos",
+      "viewport": "mobile-390",
+      "file": "combo-diferenciais-depoimentos-mobile-390.png"
+    },
+    {
+      "type": "combo",
+      "combo": "faq-contato-cta",
+      "viewport": "mobile-390",
+      "file": "combo-faq-contato-cta-mobile-390.png"
+    }
+  ]
+}
