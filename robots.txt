@@ -5,4 +5,4 @@ Allow: /
 Disallow: /_archive/
 Disallow: /scripts/
 
-Sitemap: https://www.dravivianeveronica.com.br/sitemap.xml
+Sitemap: https://dravivianeveronica.com.br/sitemap.xml

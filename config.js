@@ -1,7 +1,7 @@
 /* Configuração pública do site.
    Substitua os placeholders antes do deploy em produção. */
 window.SITE_CONFIG = {
-  siteUrl: "https://www.dravivianeveronica.com.br",
+  siteUrl: "https://dravivianeveronica.com.br",
   whatsapp: "5534992665656",
   /* Google Analytics 4: ex. "G-XXXXXXXXXX". Deixe "" para desativar. */
   gaMeasurementId: "",

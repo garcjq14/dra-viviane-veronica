@@ -35,7 +35,7 @@ Opções comuns:
 
 ## Domínio e SEO
 
-Placeholder atual: `https://www.dravivianeveronica.com.br`
+Placeholder atual: `https://dravivianeveronica.com.br`
 
 Quando o domínio real estiver pronto, substitua em:
 
